@@ -1,5 +1,5 @@
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("I am a tech enthusiast, but I don't follow Shruthi"); 
+    System.out.println("I am a tech enthusiast. I follow Shruthi on LinkedIn and I have also subscribed to TechBytes"); 
     }
 }
